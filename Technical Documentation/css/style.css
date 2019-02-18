@@ -1,0 +1,78 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,700,900|Roboto+Slab:100,300,400,700");
+
+/* reset css */
+html,
+body {
+  font-family: "Roboto", sans-serif;
+}
+h1,
+h2,
+h3,
+h4,
+h3 {
+  font-family: "Roboto Slab", sans-serif;
+}
+/* main style css */
+section {
+  padding: 20px 0;
+}
+#navbar h2 {
+  font-size: 1.7rem;
+  text-align: center;
+  font-weight: 700;
+}
+#navbar {
+  position: fixed;
+  left: 0;
+  top: 0;
+  min-width: 250px;
+  width: 300px;
+  height: 100%;
+  border-right: 2px solid #ececec;
+}
+
+#main-doc {
+  margin-left: 310px;
+  padding: 20px;
+  margin-bottom: 100px;
+}
+#navbar ul {
+  height: 88%;
+  overflow-x: hidden;
+  overflow-y: auto;
+  padding: 0;
+}
+#navbar li {
+  list-style: none;
+  padding: 10px 0;
+  margin-left: 20px;
+}
+.nav-link {
+  padding: 0 0.5rem;
+  border: 0;
+  border-bottom: 1px solid #82828257;
+  color: #333;
+}
+.nav-link:hover {
+  border-color: #0056b3;
+}
+pre {
+  border-left: 4px solid #c1c1c1;
+}
+
+@media screen and (max-width: 768px) {
+  #navbar {
+    position: absolute;
+    width: 100%;
+    max-height: 270px;
+    padding: 20px 0 0 0;
+  }
+  #navbar ul {
+    height: 200px;
+    border: 2px solid #868686;
+  }
+  #main-doc {
+    margin: 240px 0 0 0;
+    padding: 20px;
+  }
+}
