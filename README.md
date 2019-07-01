@@ -1,6 +1,6 @@
 # freeCodeCamp Responsive Web Design Projects
 Practical application of newly learnt skills to work! By working on projects I had the opportunity of applying all the skills, 
-principles and concepts you have learnt so far HTML, CSS, Visual Design, Accessibility, etc.
+principles and concepts I have learnt so far HTML, CSS, Visual Design, Accessibility, etc.
 
 In this section I get the chance to:
 
@@ -9,3 +9,5 @@ In this section I get the chance to:
 3. [Build a Product Landing Page](https://codepen.io/iamsaief/full/wNxRxa)
 4. [Build a Technical Documentation Page](https://codepen.io/iamsaief/full/GzXWKB)
 5. [Build a Personal Portfolio Webpage](https://codepen.io/iamsaief/full/MLqrjK)
+
+> [Check out the Certificate of Responsive Web Design](https://www.freecodecamp.org/certification/saiefalemon/responsive-web-design)
